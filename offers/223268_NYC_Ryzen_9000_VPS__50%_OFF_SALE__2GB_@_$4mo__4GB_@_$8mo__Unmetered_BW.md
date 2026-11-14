@@ -1,0 +1,71 @@
+---
+id: 223268
+title: "NYC Ryzen 9000 VPS | 50% OFF SALE | 2GB @ $4/mo | 4GB @ $8/mo | Unmetered BW"
+date: "2026-11-13T21:30:49+00:00"
+author: "Unknown"
+link: "https://lowendtalk.com/discussion/223268/nyc-ryzen-9000-vps-50-off-sale-2gb-4-mo-4gb-8-mo-unmetered-bw"
+---
+# NYC Ryzen 9000 VPS | 50% OFF SALE | 2GB @ $4/mo | 4GB @ $8/mo | Unmetered BW
+**Link:** [Original Thread](https://lowendtalk.com/discussion/223268/nyc-ryzen-9000-vps-50-off-sale-2gb-4-mo-4gb-8-mo-unmetered-bw)
+
+![Fourplex Logo](https://billing.fourplex.net/assets/img/logo.png)
+
+[Fourplex Telecom LLC](https://www.fourplex.net/) is built on unconventional, innovative thinking. Our team has over a decade of IT and networking experience with a focus on thinking outside the box. In short, Fourplex is designed to get things done.
+
+We at Fourplex have a flash sale for our Ryzen 9000 plans.
+
+Please also read our [FAQs](https://www.fourplex.net/faq/) and [Terms of Service](https://www.fourplex.net/terms-of-service/).
+
+Deal
+====
+
+We are giving VPS M and larger at 50% off recurring (starting at **$4.00/mo**)
+
+This offer is valid while supplies last or until further notice.
+
+Ryzen VPS Plans
+===============
+
+| Plan | Cores | RAM | Storage | Regular Price | Promo Price | Order Link |
+| --- | --- | --- | --- | --- | --- | --- |
+| VPS M | 2 9900X | 2GB | 20GB NVMe | $8.00/mo | **$4.00/mo** | [**Order Now**](https://billing.fourplex.net/index.php?rp=/store/nyc-ryzen-vps/vps-m&promocode=CODE_C4a) |
+| VPS L | 2 9900X | 4GB | 40GB NVMe | $16.00/mo | **$8.00/mo** | [**Order Now**](https://billing.fourplex.net/index.php?rp=/store/nyc-ryzen-vps/vps-l&promocode=CODE_C4a) |
+
+Other Plans
+-----------
+
+We also have [other plans](https://billing.fourplex.net/index.php?rp=/store/nyc-ryzen-vps). Use the coupon code **CODE\_C4a**.
+
+Note: the VPS S plan does not qualify for this promotion.
+
+Note for existing/former customers
+----------------------------------
+
+Our billing system is back online. However, if you signed up before 10/21/2026, you will need to [reset your password](https://billing.fourplex.net/index.php?rp=/password/reset) in order to log in or sign up. You can do it [here](https://billing.fourplex.net/index.php?rp=/password/reset).
+
+Node Specs
+==========
+
+Ryzen 9000
+----------
+
+AMD Ryzen 9900X - 12-core CPU  
+256GB (4x64GB) DDR5 RAM  
+2x4TB NVMe SSD (RAID 1)  
+10 Gigabit NIC
+
+Datacenter Specs
+================
+
+Datacenter: Metanet NYC (Cogent/GTT upstream)  
+IPv4: 147.90.234.1  
+IPv6: 2602:f6f6:1::1
+
+Why Fourplex?
+=============
+
+* Unmetered Bandwidth
+* 10 Gigabit Network
+* NYC Location
+* Tor Exit-friendly
+* Excellent support
